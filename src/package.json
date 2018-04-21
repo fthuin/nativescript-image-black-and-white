@@ -1,6 +1,6 @@
 {
     "name": "nativescript-image-black-and-white",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A NativeScript plugin to apply a black-and-white filter on Image.",
     "main": "image-black-and-white",
     "typings": "index.d.ts",
