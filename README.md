@@ -2,11 +2,14 @@
 
 This plugin allows you to put an image in black and white (also called gray scale filter). It is using native iOS and Android features, so it is very nice in terms of performance and **it does not contain any third-party library** so it is very small.
 
-<img src="./screenshots/ios_before.jpg" alt="ios-before" width="250">
-<img src="./screenshots/ios_after.jpg" alt="ios-after" width="250">
+Original             |  Modified
+:-------------------------:|:-------------------------:
+<img src="https://github.com/fthuin/nativescript-image-black-and-white/blob/master/screenshots/ios_before.jpg" alt="ios-before" width="250">  |  <img src="https://github.com/fthuin/nativescript-image-black-and-white/blob/master/screenshots/ios_after.jpg" alt="ios-after" width="250">
 
-<img src="./screenshots/android_before.jpg" alt="android-before" width="250">
-<img src="./screenshots/android_after.jpg" alt="android-after" width="250">
+
+Original             |  Modified
+:-------------------------:|:-------------------------:
+<img src="https://github.com/fthuin/nativescript-image-black-and-white/blob/master/screenshots/android_before.jpg" alt="android-before" width="250"> | <img src="https://github.com/fthuin/nativescript-image-black-and-white/blob/master/screenshots/android_after.jpg" alt="android-after" width="250">
 
 ## Installation
 
